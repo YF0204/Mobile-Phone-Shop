@@ -1,0 +1,59 @@
+﻿Order Details:
+Operating System: iOS8
+Make: Apple
+Model: iPhone 4
+Condition: Mint
+Colour: Silver
+Storage: 16GB
+Price: £40.50
+First Name:Yaseen
+Last Name:Fulat
+Contact No:07858558312
+Email Address:yas_0dst@hotmail.co.uk
+Order Details:
+Operating System: iOS10
+Make: Apple
+Model: iPhone 7
+Condition: Mint
+Colour: Black
+Storage: 64GB
+Price: £567.00
+First Name:Qays
+Last Name:Vajirali
+Contact No:464654
+Email Address:asdfh
+Order Details:
+Operating System: iOS9
+Make: Apple
+Model: iPhone 5
+Condition: Fair
+Colour: Space Grey
+Storage: 16GB
+Price: £56.70
+First Name:YU
+Last Name:YU
+Contact No:890890890
+Email Address:454545
+Order Details:
+Operating System: Jelly Bean 4.1
+Make: Motorola
+Model: 3rd Gen
+Condition: Good
+Colour: Lava Red
+Storage: 16GB
+Price: £56.00
+First Name:Abdul
+Last Name:Fiaz
+Contact No:5463456
+Email Address:fdgdfg
+Order Details:Operating System: Donut 4.0
+Make: HTC
+Model: One X
+Condition: Fair
+Colour: Black
+Storage: 16GB
+Price: £11.30
+First Name:lol
+Last Name:troll
+Contact No:487438734987
+Email Address:sdhdshj@hotmail.com

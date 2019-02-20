@@ -1,0 +1,56 @@
+I:\CTEC2902 Advanced Programming\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\bin\Debug\MobilePhoneApplication.exe.config
+I:\CTEC2902 Advanced Programming\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.csprojResolveAssemblyReference.cache
+I:\CTEC2902 Advanced Programming\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.Properties.Resources.resources
+I:\CTEC2902 Advanced Programming\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.csproj.GenerateResource.Cache
+I:\CTEC2902 Advanced Programming\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\bin\Debug\MobilePhoneApplication.exe
+I:\CTEC2902 Advanced Programming\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\bin\Debug\MobilePhoneApplication.pdb
+I:\CTEC2902 Advanced Programming\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.MainMenu.resources
+I:\CTEC2902 Advanced Programming\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.exe
+I:\CTEC2902 Advanced Programming\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.pdb
+I:\CTEC2902 Advanced Programming\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.frmShopPhones.resources
+I:\CTEC2902 Advanced Programming\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.frmOrderPhone.resources
+I:\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\bin\Debug\MobilePhoneApplication.exe.config
+I:\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.exe
+I:\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.pdb
+I:\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.csprojResolveAssemblyReference.cache
+I:\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.frmOrderPhone.resources
+I:\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.frmShopPhones.resources
+I:\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.MainMenu.resources
+I:\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.Properties.Resources.resources
+I:\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.csproj.GenerateResource.Cache
+I:\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\bin\Debug\MobilePhoneApplication.exe
+I:\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\bin\Debug\MobilePhoneApplication.pdb
+C:\Users\FF\Documents\Computing BSc 2nd Year\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\bin\Debug\MobilePhoneApplication.exe.config
+C:\Users\FF\Documents\Computing BSc 2nd Year\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.exe
+C:\Users\FF\Documents\Computing BSc 2nd Year\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.pdb
+C:\Users\FF\Documents\Computing BSc 2nd Year\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\bin\Debug\MobilePhoneApplication.exe
+C:\Users\FF\Documents\Computing BSc 2nd Year\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\bin\Debug\MobilePhoneApplication.pdb
+C:\Users\FF\Documents\Computing BSc 2nd Year\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.csprojResolveAssemblyReference.cache
+C:\Users\FF\Documents\Computing BSc 2nd Year\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.frmOrderPhone.resources
+C:\Users\FF\Documents\Computing BSc 2nd Year\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.frmShopPhones.resources
+C:\Users\FF\Documents\Computing BSc 2nd Year\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.MainMenu.resources
+C:\Users\FF\Documents\Computing BSc 2nd Year\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.Properties.Resources.resources
+C:\Users\FF\Documents\Computing BSc 2nd Year\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.csproj.GenerateResource.Cache
+E:\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\bin\Debug\MobilePhoneApplication.exe.config
+E:\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.exe
+E:\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.pdb
+E:\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\bin\Debug\MobilePhoneApplication.exe
+E:\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\bin\Debug\MobilePhoneApplication.pdb
+E:\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.csprojResolveAssemblyReference.cache
+E:\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.frmOrderPhone.resources
+E:\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.frmShopPhones.resources
+E:\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.MainMenu.resources
+E:\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.Properties.Resources.resources
+E:\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.csproj.GenerateResource.Cache
+C:\Users\yas_0\OneDrive\My Documents\Computing BSc 2nd Year\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\bin\Debug\MobilePhoneApplication.exe.config
+C:\Users\yas_0\OneDrive\My Documents\Computing BSc 2nd Year\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\bin\Debug\MobilePhoneApplication.exe
+C:\Users\yas_0\OneDrive\My Documents\Computing BSc 2nd Year\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\bin\Debug\MobilePhoneApplication.pdb
+C:\Users\yas_0\OneDrive\My Documents\Computing BSc 2nd Year\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.csprojAssemblyReference.cache
+C:\Users\yas_0\OneDrive\My Documents\Computing BSc 2nd Year\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.frmOrderPhone.resources
+C:\Users\yas_0\OneDrive\My Documents\Computing BSc 2nd Year\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.frmShopPhones.resources
+C:\Users\yas_0\OneDrive\My Documents\Computing BSc 2nd Year\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.MainMenu.resources
+C:\Users\yas_0\OneDrive\My Documents\Computing BSc 2nd Year\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.Properties.Resources.resources
+C:\Users\yas_0\OneDrive\My Documents\Computing BSc 2nd Year\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.csproj.GenerateResource.cache
+C:\Users\yas_0\OneDrive\My Documents\Computing BSc 2nd Year\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.csproj.CoreCompileInputs.cache
+C:\Users\yas_0\OneDrive\My Documents\Computing BSc 2nd Year\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.exe
+C:\Users\yas_0\OneDrive\My Documents\Computing BSc 2nd Year\CTEC2902 Advanced Programming\Mobile Phone Assignment\Mobile Phone Assignment\MobilePhoneApplication\MobilePhoneApplication\obj\Debug\MobilePhoneApplication.pdb
