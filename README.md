@@ -1,2 +1,3 @@
 # Mobile-Phone-Shop
-Created with OOP
+
+A little phone shop app, created with OOP.
